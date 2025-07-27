@@ -1,4 +1,4 @@
-# Agentic AI Projects
+# Agentic AI Solutions
 
 This repository contains implementations of agentic AI systems and workflows.
 
