@@ -1,0 +1,18 @@
+# Core dependencies for EnGen ADK Agents
+asyncio  # Built-in for Python 3.7+
+json  # Built-in
+typing  # Built-in for Python 3.5+
+abc  # Built-in
+ast  # Built-in
+
+# Optional dependencies for enhanced functionality
+jsonschema>=4.0.0  # For JSON schema validation
+pyyaml>=6.0  # For YAML parsing in pipeline validation
+
+# Mock dependencies (these would be replaced with actual ADK/GCP libraries in production)
+# google-cloud-storage  # For actual GCS integration
+# google-cloud-pubsub  # For actual Pub/Sub integration
+# google-cloud-bigtable  # For actual BigTable integration
+# google-cloud-aiplatform  # For actual Vertex AI integration
+# neo4j  # For actual Neo4j integration
+# PyGithub  # For actual GitHub integration
